@@ -1,5 +1,7 @@
 # Balaji Gurumurthy – Personal Profile Website
 
+https://iltstudent03.github.io/HTML-CSS/
+
 ## Project Overview
 This is a multi-page static website built as an assignment to demonstrate semantic HTML, organized CSS, accessibility, and responsive design. The content is based on my professional profile.
 
